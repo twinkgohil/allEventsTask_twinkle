@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "641056757069",
+    "project_id": "allevents-2ca4e",
+    "storage_bucket": "allevents-2ca4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641056757069:android:8233d2a110ad9355e21304",
+        "android_client_info": {
+          "package_name": "com.example.all_events_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641056757069-1ptlt14jfp9g9r92u1eedlmcm3grbc4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.all_events_task",
+            "certificate_hash": "32c5a0db626024f39473773f09b87388ebb38810"
+          }
+        },
+        {
+          "client_id": "641056757069-oc1vsja3015j34e7idn88o0b99mp3aqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_vbDZAhMe3Pz0vDU6pEZ8NJva_v4nxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641056757069-oc1vsja3015j34e7idn88o0b99mp3aqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641056757069-642fem1um0lp77ft0l3v9fi8qcj8d4uv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.allEventsTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
