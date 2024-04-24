@@ -23,7 +23,7 @@ class ListingView extends GetView<ListingController> {
           appBarHeight: 100,
           bottom: TabBar(
             indicatorColor: ColorConstants.kPrimary,
-            indicatorSize: TabBarIndicatorSize.tab,
+            indicatorSize: TabBarIndicatorSize.tab   ,
             tabs: [
               Tab(
                   icon: Icon(
